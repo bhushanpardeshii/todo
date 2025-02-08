@@ -98,3 +98,20 @@ button:hover {
   font-size: 14px;
 
 }
+
+.login-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+
+}
+
+.login-btn {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  color: white;
+  margin-top: 20px;
+}
